@@ -1,4 +1,4 @@
-# Telegram Bot
+## Telegram Bot
 
 The Telegram Bot is a simple yet educational bot created for learning purposes. It integrates with various APIs, including RapidAPI, to provide four core features: image search, weather information retrieval, translation, and random memes.
 
